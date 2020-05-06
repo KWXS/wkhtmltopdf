@@ -1,9 +1,9 @@
 {
-  "name": "tenantcloud/wkhtmltopdf",
+  "name": "kwxs/wkhtmltopdf",
   "description": "The wkhtmltopdf binaries for OSX and Ubuntu Xenial, Bionic.",
   "keywords": ["pdf", "wkhtmltopdf", "binary"],
   "license": "MIT",
-  "homepage": "https://github.com/tenantcloud/wkhtmltopdf",
+  "homepage": "https://github.com/KWXS/wkhtmltopdf",
   "authors": [
     {
       "name": "Igor Bronovskyi",
