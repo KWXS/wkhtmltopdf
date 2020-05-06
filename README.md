@@ -1,7 +1,7 @@
 # wkhtmltopdf binaries
 ## Installation
 
-Run `composer require tenantcloud/wkhtmltopdf` to install the package.
+Run `composer require kwxs/wkhtmltopdf` to install the package.
 
 ## Docs
 
